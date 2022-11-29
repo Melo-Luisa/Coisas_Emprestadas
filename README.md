@@ -15,12 +15,11 @@
  <h1>Pelo começo</h1>
  Optei por fazer num estilo de cores: '#CD4E93' e '#E08F43';
  Essa é a base
- ![A4 - 1](https://user-images.githubusercontent.com/97964206/204551456-296dfa31-40bf-4e2f-8cb3-8661ffb3371c.png)
- 
+ ![image](https://user-images.githubusercontent.com/97964206/204551986-621fcf3d-4cda-46e5-a3a5-3063842f9126.png)
  <h2>Page de Login</h2>
  Ficou bem parecida com o design, queria ter feito algo mais simples, para o usuário
  
- ![image](https://user-images.githubusercontent.com/97964206/204547070-32222961-07be-468f-8653-2a61e1577e5e.png)
+![image](https://user-images.githubusercontent.com/97964206/204551917-ec59f5b0-c32e-4785-8a7d-2de6cb3fda6c.png)
  
 
  
