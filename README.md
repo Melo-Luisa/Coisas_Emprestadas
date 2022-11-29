@@ -5,7 +5,7 @@
  
  Fiz esse projeto em 1 mês, utilizando HTML, CSS, PHP e MySQL(banco de dados)
 
- <p style: color:red;>O trabalho consiste em criar um site onde podemos cadastrar um usuário, fazer emprestimos, devolver, excluir o usuário e etc.</p>
+ <p><italic>O trabalho consiste em criar um site onde podemos cadastrar um usuário, fazer emprestimos, devolver, excluir o usuário e etc.</italic></p>
  
  <h5>Estarei apresentando suas faces e objetivos aqui</h5>
  <p>Estarei postando um video no youtube caso queiram ver na prática: <a>Link</a>
