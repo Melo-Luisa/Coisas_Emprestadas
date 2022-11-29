@@ -43,11 +43,8 @@ Sobre: Fiz icones com imagens e o nome generico do item. Com o botão interativo
 
 https://user-images.githubusercontent.com/97964206/204556013-1bfa0d61-38eb-455d-80aa-35a193ced7bb.mp4
 
-<h2>Page de Emprestimo</h2>
-Fiz num estilo mobile, talvez eu melhore isso.<br>
-Fomulário que também esta relacionado com o MySQL.<br>
-
-![image](https://user-images.githubusercontent.com/97964206/204557171-545dc00c-57df-4ffc-9fb1-07895ec48fb5.png)
+----------------------------------------------
+<h2>That's all Folk's</h2>
 
 
 
