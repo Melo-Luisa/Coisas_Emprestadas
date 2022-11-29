@@ -1,7 +1,7 @@
 ###                                         Coisas Emprestadas
  ATP - PUC/PR - Entrega do site Coisas Emprestadas
  
- <h2 style="color: red;">Projeto da Materia de Fundamento da Programação WEB</h2>
+ <h2>Projeto da Materia de Fundamento da Programação WEB</h2>
  
  Fiz esse projeto em 1 mês, utilizando HTML, CSS, PHP e MySQL(banco de dados)
 
@@ -13,11 +13,9 @@
  -----------------------------------------------------------------------------
  
  <h1>Pelo começo</h1>
- Optei por fazer num estilo de cores: '#CD4E93' e '#E08F43';
- Lembrando que nessa versão fiz apenas para notebook - 1440px
+ Optei por fazer num estilo de cores: '#CD4E93' e '#E08F43';<br>
+ Lembrando que nessa versão fiz apenas para notebook - 1440px<br>
  Essa é a base:
- 
- ![image](https://user-images.githubusercontent.com/97964206/204551986-621fcf3d-4cda-46e5-a3a5-3063842f9126.png)
  
  <h2>Page de Início</h2>
  Ficou bem parecida com o design, queria ter feito algo mais simples, para o usuário:
@@ -39,7 +37,7 @@ Por hora ele apresenta que deve ser do ano 2004 ou inferior.
 
 ![image](https://user-images.githubusercontent.com/97964206/204554313-ba076098-fbff-4b3b-948c-4eab09360ae7.png)
 
-
+<h2>Page Entrada Principal<h2>
  
 
  
