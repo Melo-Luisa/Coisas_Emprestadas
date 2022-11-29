@@ -37,7 +37,7 @@ Por hora ele apresenta que deve ser do ano 2004 ou inferior.
 
 ![image](https://user-images.githubusercontent.com/97964206/204554313-ba076098-fbff-4b3b-948c-4eab09360ae7.png)
 
-<h2>Page Entrada Principal<h2>
+<h2>Page Entrada Principal</h2>
 Deixei um video para ficar mais prático de vizualizar a página inteira.<br>
 Sobre: Fiz icones com imagens e o nome generico do item. Com o botão interativo na base, que se clicar iremos para o cadastro de emprestimo do item.
 
