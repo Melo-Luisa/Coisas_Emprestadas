@@ -1,0 +1,10 @@
+.tabela{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    width: 100%;
+}
+td{
+    border: 1px solid #000;
+    text-align: left;
+    padding: 5px;
+}

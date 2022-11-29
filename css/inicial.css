@@ -1,0 +1,66 @@
+.inicial_cabecalho{
+    align-items: center;
+    padding-top: 2rem;
+}
+.titulo{
+    text-align: center;
+    font-size: 3rem;
+    
+}
+.logo{
+    width: 8rem;
+    margin-left: 42rem;
+}
+/*DAQUI PARA BAIXO É OS BOTOES*/
+.restante{
+    justify-content: center;
+}
+.botoes{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2em;
+    padding-left: 1rem;
+}
+.entrar{
+    border: none;
+    background-color: var(--laranja);
+    border-radius: 2rem;
+    font-size: 2rem;
+    font-family: 'Sen', sans-serif;
+    width: 15rem;
+
+}
+.entrar:hover{
+    cursor: pointer;
+    color: #ffff;
+    background-image: linear-gradient(#E08F43, #CD4E93);
+}
+.cadastrar{
+    border: none;
+    background-color: var(--laranja);
+    border-radius: 2rem;
+    font-size: 2rem;
+    font-family: 'Sen', sans-serif;
+    width: 15rem; 
+}
+.cadastrar:hover{
+    cursor: pointer;
+    color: #ffff;
+    background-image: linear-gradient(#E08F43, #CD4E93);
+}
+/*IMAGENS DA CAPA*/
+.roupas{
+    width: 25em;
+    margin-left:30em;
+    margin-top: 8rem;
+}
+.eletronicos{
+    width: 25em;
+    margin-left:1em;
+    margin-top: -17rem;
+}
+.eltrodomesticos{
+    width: 25em;
+    margin-left:59em;
+    margin-top: -20rem; 
+}

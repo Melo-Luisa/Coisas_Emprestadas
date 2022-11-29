@@ -1,0 +1,53 @@
+.principal{
+    background-image: linear-gradient(#E08F43, #CD4E93);
+    width: 25rem;
+    border: none;
+    border-radius: 1rem;
+    margin-left: 35rem;
+    margin-top: -3rem;
+}
+.nome_perfil_sub{
+    padding: 0.5rem;
+    margin-left: 9rem;
+}
+h2{
+    margin-left: 10rem;
+}
+.input{
+    border: none;
+    border-radius: 4rem;
+    width: 12rem;
+    height: 1.5rem;
+    margin-left: 7rem;
+}
+#sexo{
+    margin-left: 8rem;
+    border: none;
+    border-radius: 2rem;
+}
+.salvar, .voltar{
+    border: none;
+    width: 8rem;
+    height: 1.5rem;
+    border-radius: 2rem;
+    margin-bottom: 1rem;
+    margin-left: 9rem;
+    transition: 0.5s;
+
+}
+.salvar{
+    margin-top: 1rem;
+}
+.salvar:hover{
+    margin-top: 1rem;
+    background-color: #CD4E93;
+    border: 1px solid #eee;
+    transition: 0.5s;
+    color: #eee;
+}
+.voltar:hover{
+    background-color: #E08F43;
+    border: 1px solid #eee;
+    color: #eee;
+    transition: 0.5s;
+}

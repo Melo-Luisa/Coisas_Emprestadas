@@ -1,0 +1,52 @@
+main{
+    background-image: linear-gradient(#E08F43, #CD4E93);
+    width: 25rem;
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem;
+    margin-left: 2rem;
+}
+h2, p{
+    margin-left: 5rem;
+}
+input{
+    padding: 1rem;
+    border: none;
+    border-radius: 1rem;
+    margin-left: 5rem;
+    height: 0.5rem;
+}
+#motivos{
+    border: none;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-left: 5rem;
+}
+#aerea{
+    border: none;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-left: 4.5rem; 
+}
+.devolver{
+    margin-left: 8rem;
+    margin-top: 1rem;
+}
+.voltar{
+    border: none;
+    border-radius: 1rem;
+    height: 3rem;
+    width: 7rem;
+    font-size: 1rem;
+    font-family: 'Sen', sans-serif;
+    margin-left: 8rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+    transition: 0.5s;  
+}
+.voltar:hover{
+    cursor: pointer;
+    background: #CD4E93;
+    color: #fff;
+    transition: 0.5s;
+}

@@ -1,0 +1,64 @@
+.Logo{
+    display: flex;
+    padding: 2rem;
+    margin-left: 65rem;
+}
+h1{
+    font-size: 1.5rem;
+}
+#logo_coisas{
+    width: 5rem;
+
+    margin-right: 1rem;
+    
+}
+.principal{
+    background-image: linear-gradient(#E08F43, #CD4E93);
+    width: 40rem;
+    height: 15rem;
+    border: none;
+    border-radius: 2rem;
+    margin-left: 25.5rem;
+}
+.texto, .texto_principal{
+    color: rgb(255, 254, 254);
+    margin: 2rem;
+}
+.texto{
+    margin-left: 7rem;
+}
+.texto_principal{
+    padding: 1rem;
+}
+.email{
+    border: none;
+    border-radius: 0.5rem;
+    margin-left: 7rem;
+    width: 25rem;
+    height: 1.5rem;
+    margin-top: -5rem;
+}
+/*BOTAO*/
+.validar{
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #cd4e9400;
+    border-radius: 3rem;
+    width: 5rem;
+    height: 2rem;
+    color: black;
+    margin-left: 25rem;
+    margin-top: 1rem;
+    transition: 1s;
+}
+.validar:hover{
+    border: none;
+    background-color: #E08F43;
+    border-radius: 3rem;
+    width: 6rem;
+    height: 2rem;
+    color: #eee;
+    margin-left: 25rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    transition: 1s;
+}

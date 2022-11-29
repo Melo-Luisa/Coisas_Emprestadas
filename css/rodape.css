@@ -1,0 +1,11 @@
+.rodape{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6rem;
+    padding: 0 2rem 0 2rem ;
+}
+/*LINK PARA MEU GITHUB*/
+.dev{
+    text-decoration: none;
+    color: var(--laranja);
+}

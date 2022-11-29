@@ -1,0 +1,115 @@
+/*COMEÇO*/
+.principal{
+    display: flex;
+}
+.entrar{
+    background-image: linear-gradient(#CD4E93, #E08F43);
+    width: 30%;
+    height: 20rem;
+    border-radius: 5%;
+    display: flex;
+    text-align: left;
+    font-family: 'Sen', sans-serif;
+    margin-left: 25rem;
+
+}
+/*PARTE DA LOGO E NOME*/
+.nome{
+    text-align: center;
+    padding: 2rem;
+}
+.logo{
+    width: 5rem;
+}
+/*-----------------PRIMEIRA CAIXA-----------------*/
+.dados{
+    text-align: center;
+    font-family: 'Sen', sans-serif;
+}
+.botao_entrar{
+    color: rgb(14, 14, 14);
+    border: 2px solid #fff;
+    background-color: #e9e9e900;
+    border-radius: 15rem;
+    width: 35%;
+    height: 10%;
+    font-family: 'Sen', sans-serif;  
+    margin-top: 1rem;  
+    margin-left: 6rem;
+
+}
+.botao_entrar:hover{
+    cursor: pointer;
+    background-color: #fff;
+    color: var(--rosa);
+    font-family: 'Sen', sans-serif;
+
+
+}
+.input_user, .input_senha{
+    width: 70%;
+    height: 10%;
+    border: none;
+    border-radius: 10rem;
+  
+    
+}
+.entrada_nome, .entrada_nome_senha{
+    margin-right: 7rem;
+}
+.senha{
+    padding: 5%;
+    color: #000;
+}
+/*----------------------SEGUNDA CAIXA----------------------*/
+.cadastrar_midias{
+    background-image: linear-gradient( #E08F43, #CD4E93);
+    width: 20%;
+    height: 17rem;
+    border-radius: 5%;
+    display: flex;
+    text-align: left;
+    font-family: 'Sen', sans-serif;
+    margin-left: 5rem;
+    margin-top: 2rem;
+
+}
+.dados_2{
+    text-align: center;
+    font-family: 'Sen', sans-serif;
+}
+/*NOME*/
+.cadastrar{
+    margin-right: 0rem;
+}
+/*BOTÃO*/
+.botao_comeca{
+    color: rgb(14, 14, 14);
+    border: 2px solid #fff;
+    background-color: #e9e9e900;
+    border-radius: 15rem;
+    width: 35%;
+    height: 10%;
+    font-family: 'Sen', sans-serif;
+    margin-top: 1rem;
+    margin-right: 0rem;
+}
+.botao_comeca:hover{
+    cursor: pointer;
+    background-color: #fff;
+    color: var(--rosa);
+    font-family: 'Sen', sans-serif;
+}
+/*ICON MIDIAS*/
+.midias{
+    display: flex;
+    justify-content: space-around;
+}
+#google, #facebook{
+    width: 15%;
+}
+
+#facebook:hover, #google:hover{
+    cursor: pointer;
+
+}

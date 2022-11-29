@@ -1,0 +1,9 @@
+html, body, footer{
+    font-family: 'Sen', sans-serif;
+    background-color: rgb(238, 238, 238);
+}
+:root{
+    --laranja: #E08F43;
+    --rosa: #CD4E93;
+    --degrade: linear-gradient(#E08F43, #CD4E93);
+}

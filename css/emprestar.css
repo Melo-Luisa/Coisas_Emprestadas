@@ -1,0 +1,56 @@
+.principal{
+    background-image: linear-gradient(#E08F43, #CD4E93);
+    border: none;
+    border-radius: 2rem;
+    width: 25rem;
+    margin-left: 5rem;
+}
+h2{
+    margin-left: 2rem;
+}
+.input{
+    padding: 1rem;
+    border: none;
+    border-radius: 1rem;
+    margin-left: 5rem;
+    height: 0.5rem;
+}
+.emprestar{
+    margin-top: 2rem;
+    margin-left: 8rem;
+}
+#aerea{
+    border: none;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-left: 3rem;
+}
+#categoria{
+    border: none;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-left: 6rem;
+}
+p{
+    margin-left: 7rem;
+}
+
+/*BOTÃO*/
+.voltar{
+    border: none;
+    border-radius: 1rem;
+    height: 3rem;
+    width: 7rem;
+    font-size: 1rem;
+    font-family: 'Sen', sans-serif;
+    margin-left: 8rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+    transition: 0.5s;  
+}
+.voltar:hover{
+    cursor: pointer;
+    background: #E08F43;
+    color: #fff;
+    transition: 0.5s;
+}
