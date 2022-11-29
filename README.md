@@ -25,8 +25,8 @@
 ![image](https://user-images.githubusercontent.com/97964206/204551917-ec59f5b0-c32e-4785-8a7d-2de6cb3fda6c.png)
 
 <h2>A page de login</h2>
-Fiz para entrar direto caso já cadastrado ou se cadastrar;
-Relacionado com o Banco de Dados caso não cadastrado. 
+Fiz para entrar direto caso já cadastrado ou se cadastrar;<br>
+Relacionado com o Banco de Dados caso não cadastrado.<br>
 Na segunda caixa (de cadastro) deixei essa possibilidade de cadastrar com mídias sociais.
  
  ![image](https://user-images.githubusercontent.com/97964206/204552712-e111b2da-90c1-4b3c-8e8a-18fedaabeb59.png)
