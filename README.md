@@ -5,7 +5,11 @@
  
  Fiz esse projeto em 1 mês, utilizando HTML, CSS, PHP e MySQL(banco de dados)
 
- O seit
+ O trabalho consiste em criar um site onde podemos cadastrar um usuário, fazer emprestimos, devolver, excluir o usuário e etc.
+ <p>Sei o que tenho alguns itens para aperfeiçoar mas a essencência dele é essa</p>
+ 
+ <h5>Estarei apresentando suas faces e objetivos aqui</h5>
+ <p>Estarei postando um video no youtube caso queiram ver na prática: <a>Link</a>
  
  ![image](https://user-images.githubusercontent.com/97964206/204547070-32222961-07be-468f-8653-2a61e1577e5e.png)
 
