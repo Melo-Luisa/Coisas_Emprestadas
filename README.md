@@ -15,7 +15,6 @@
  <h1>Pelo começo</h1>
  Optei por fazer num estilo de cores: '#CD4E93' e '#E08F43';<br>
  Lembrando que nessa versão fiz apenas para notebook - 1440px<br>
- Essa é a base:
  
  <h2>Page de Início</h2>
  Ficou bem parecida com o design, queria ter feito algo mais simples, para o usuário:
