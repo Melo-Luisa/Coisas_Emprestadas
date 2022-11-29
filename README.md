@@ -14,8 +14,10 @@
  
  <h1>Pelo começo</h1>
  Optei por fazer num estilo de cores: '#CD4E93' e '#E08F43';
- Essa é a base
+ Essa é a base:
+ 
  ![image](https://user-images.githubusercontent.com/97964206/204551986-621fcf3d-4cda-46e5-a3a5-3063842f9126.png)
+ 
  <h2>Page de Login</h2>
  Ficou bem parecida com o design, queria ter feito algo mais simples, para o usuário
  
